@@ -9,12 +9,9 @@
  *****  
   ***   
    *    
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\1GettingStarted> 
 
 <!-- HelloWord -->
 HelloWorld
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\1GettingStarted> 
-
 
 <!-- PersonalDetails -->
 Personal Details:
@@ -22,12 +19,12 @@ Name: roshan
 Address: Kathmandu
 Age: 21
 Phone Number: 9814865861
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\1GettingStarted> 
+
 
 
 <!-- test -->
 An Emergency Broadcast
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\1GettingStarted> 
+
 
 
 <!-- 2DataAndExpressions(output) -->
@@ -39,14 +36,14 @@ enter the second value
 enter the third value 
 9
 The average of 34 ,88 and 9 is : 43.7
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\2DataAndExpressions>
+
 
 
 <!-- Converting -->
 Enter the miles value:
 78
 78.0 miles is equal to 125.5 kilometers
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\2DataAndExpressions>
+
 
 
 <!-- fraction -->
@@ -55,14 +52,12 @@ Enter the numerator of the fraction:
 Enter the denominator of the fraction:
 9
 The decimal equivalent of 89/9 is 9.89
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\2DataAndExpressions>
 
 <!-- square -->
 Enter the length of the square's side:
 44
 The perimeter of the square is 176
 The area of the square is 1936
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\2DataAndExpressions> 
 
 <!-- studentgradetable -->
 ///////////////////\\\\\\\\\\\\\\\\\
@@ -79,7 +74,6 @@ william          50       8        58
 
 marysue          39       10       49
 ----            ---     -----   -----
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\2DataAndExpressions>
 
 
 <!-- selectionAndliteration(output) -->
@@ -92,12 +86,12 @@ Symbol          Count
 :               0
 !               0
 ?               0
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\3SelectionAndIteration>
+
 
 <!-- Reversewordsetence -->
 Enter a sentence: my name is roshan chaudhary
 Reversed sentence: ym eman si nahsor yrahduahc
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\3SelectionAndIteration> 
+
 
 
 
@@ -113,7 +107,7 @@ Enter the weight (ounces): 66
      Weight: 4.12 pounds
 
      TOTAL:  $231.00
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\4ClassesAndObjects> 
+
 
 
 <!-- Dice -->
@@ -127,13 +121,12 @@ Die 1 roll 3 = 5.
 Die 2 roll 3 = 5.
 Die 1 rolled a total of 11 and rolled 3.6666666666666665 on average.
 Die 2 rolled a total of 17 and rolled 5.666666666666667 on average.
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\4ClassesAndObjects> 
 
 
 <!-- pinEncrypter -->
 Enter a 4 digit pin number to encrypt: 9980
 Your encrypted pin number is e66826fcce7d.
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\4ClassesAndObjects> 
+
 
 
 <!-- sphare -->
@@ -162,7 +155,6 @@ Title: The Catcher in the Rye
 Author: J. D. Salinger
 Publisher: Little, Brown and Company
 Copyright Date: 1951
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\5_6WritingClassesAndMethods>
 
 
 <!-- Lights -->
@@ -174,7 +166,7 @@ Bulb 2 is on? true
 
 Bulb 1 is on? false
 Bulb 2 is on? true
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\5_6WritingClassesAndMethods>
+
 
 
 <!-- MultiSphare -->
@@ -204,7 +196,7 @@ Doctor Smith Emp#101 specializes in Cardiology
 Nurse Jones Emp#102 has 5 patients
 Receptionist Davis Emp#103 is answering calls
 Cleaner Garcia Emp#104 of Emergency is sweeping
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\7Inheritance>
+
 
 <!-- SpirtstarTest -->
 Football Player Stats:
@@ -213,7 +205,7 @@ Goals Scored: 15, Assists: 7
 Cricket Player Stats:
 Player Name: Jane Smith, Player ID: 20
 Runs Scored: 1200, Wickets Taken: 150
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\7Inheritance> 
+
 
 
 <!-- # ﻿7 Polymorphism -->
@@ -221,7 +213,6 @@ PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\7
 This is a password.
 ut'öw77▬☻▬☻7?☻7??E
 This is a password.
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\8Polymorphism> 
 
 <!-- fIRM -->
 Name: roshan
@@ -279,7 +270,6 @@ Name: Rabi
 Address: California
 Phone: 76587893
 Donald gets 6 days vacation
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\8Polymorphism> 
 
 <!-- rockpaper -->
 Enter your play (R, P, or S): S
@@ -289,7 +279,7 @@ It's a tie!
 <!-- # ﻿9 Further Arrays -->
 <!-- Bank -->
 Account Balance: 309.0
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\Array And Collection> 
+
 
 
 <!-- Historygram -->
@@ -307,7 +297,6 @@ Histogram of values entered:
 71 - 80 | 
 81 - 90 | 
 91 -100 | 
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\Array And Collection> 
 
 
 
@@ -318,7 +307,6 @@ roshan	chaudhary	45700
 
 Directory:
 roshan	chaudhary	45700
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\Array And Collection> 
 
 
 <!-- Quiz -->
@@ -327,7 +315,6 @@ paris
 What is 2 + 2?
 4
 Quiz complete! Your score: 2/2
-PS C:\Users\user\Desktop\oop-portfolio-2024-roshanchaudhary861\WeeklyExercises\Array And Collection> 
 
 
 
