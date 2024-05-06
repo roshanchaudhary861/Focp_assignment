@@ -2,13 +2,13 @@
 
 <!-- Gettingstarted(output) -->
 <!-- Diamond Pattern: -->
-   *    
+     
   ***   
  *****  
 ******* 
  *****  
   ***   
-   *    
+     
 
 <!-- HelloWord -->
 HelloWorld
